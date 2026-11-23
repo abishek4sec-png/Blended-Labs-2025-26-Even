@@ -1,8 +1,4 @@
-# Lab 3 – Introduction to Amazon Elastic Compute Cloud (EC2)
-
-## Author
-
-* **Name**: ________________________________
+___________________________
 * **Register Number**: _____________________
 * **Date of Submission**: __________________
 
@@ -120,12 +116,4 @@ Terminate the EC2 instance after completing the experiment to avoid unnecessary 
 
 ---
 
-### Screenshot 3: Instance Monitoring / Status
-
-(Insert Screenshot Here)
-
----
-
-## Result 
-
-This experiment provided hands-on experience with Amazon EC2 by demonstrating how to launch, connect, manage, and monitor a virtual server in AWS. It helped in understanding the concept of Infrastructure as a Service (IaaS) and how compute resources can be provisioned and controlled on demand in the cloud.
+### Screenshot 3: Instance 
